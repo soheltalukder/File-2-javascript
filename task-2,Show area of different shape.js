@@ -28,7 +28,7 @@
 
 // <--- calculate of Tringle--->
 
-// let wide=parseFloat(prompt("Enter wide : "))
-// let perticular_height=parseFloat(prompt("Enter perticular_height : "))
-// let triingle_calculate=(wide*perticular_height)/2
-// document.write("area :"+triingle_calculate)
+let wide=parseFloat(prompt("Enter wide : "))
+let perticular_height=parseFloat(prompt("Enter perticular_height : "))
+let triingle_calculate=(wide*perticular_height)/2
+document.write("area :"+triingle_calculate)

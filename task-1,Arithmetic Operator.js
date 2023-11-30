@@ -1,7 +1,6 @@
 
 
 let firstNum=Number(prompt("Enter your First number :"));
-
 let lastNum=Number(prompt("Enter your Last number :"));
 
 
